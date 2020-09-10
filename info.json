@@ -1,15 +1,16 @@
 {
-    "name": "FactorioExtended-Plus-Power",
+    "name": "FactorioExtended-Plus-Neclear",
     "version": "1.0.0",
     "factorio_version": "1.0",
-    "date": "2020-09-07",
-    "title": "FactorioExtended Plus-Power",
-    "author": "jimmyjon711 (Original Author: Nath Gamer)",
+    "date": "2020-09-10",
+    "title": "FactorioExtended Plus-Neclear",
+    "author": "TankPlus (Original Author: Nath Gamer, jimmyjon711)",
     "contributers": "billbo99",
     "homepage": "",
     "description": "",
     "dependencies": [
         "base >= 1.0.0",
         "FactorioExtended-Plus-Core >= 1.0.0"
+        "FactorioExtended-Plus-Power >= 1.0.0"
     ]
 }
